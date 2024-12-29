@@ -17,8 +17,8 @@
 - [telaLoginIni](https://github.com/gustavo-codeco/telaLoginIni): Um projeto para gerenciamento de tela de login utilizando HTML, CSS e JavaScript.
 - [ii9Telecom](https://github.com/gustavo-codeco/ii9Telecom): Projeto de front-end com HTML, CSS e JavaScript para uma empresa de telecomunicações.
 - [DONUTS](https://github.com/Gcodeco/DONUTS):Uma loja virtual de donuts criada com React, HTML, CSS e JavaScript!
-- [User-registration-API]:(https://github.com/Gcodeco/dev-club-user-registration-API):API desenvolvida em Node.js utilizando Express e MongoDB para gerenciar o backend do projeto DEV-CLUB Cadastro de Usuários. Inclui endpoints para criar, listar, atualizar e excluir usuários, com validações básica."
-- [User-registration-front-end]:(https://github.com/Gcodeco/dev-club-user-registration-front-end):Este projeto foi inspirado nas aulas do DEV-CLUB, com o objetivo de consolidar conceitos fundamentais de desenvolvimento front-end.
+- [User-registration-API](https://github.com/Gcodeco/dev-club-user-registration-API):API desenvolvida em Node.js utilizando Express e MongoDB para gerenciar o backend do projeto DEV-CLUB Cadastro de Usuários. Inclui endpoints para criar, listar, atualizar e excluir usuários, com validações básica."
+- [User-registration-front-end](https://github.com/Gcodeco/dev-club-user-registration-front-end):Este projeto foi inspirado nas aulas do DEV-CLUB, com o objetivo de consolidar conceitos fundamentais de desenvolvimento front-end.
 
 
 ## 📫 Como me encontrar:
