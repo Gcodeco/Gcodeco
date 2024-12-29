@@ -37,3 +37,9 @@
 
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Codeço-blue)](https://www.linkedin.com/in/gustavo-codeço-4b7806216/)
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
