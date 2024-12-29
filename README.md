@@ -24,6 +24,5 @@
 - [User-registration-API](https://github.com/Gcodeco/dev-club-user-registration-API): API desenvolvida em Node.js utilizando Express e MongoDB para gerenciar o backend do projeto DEV-CLUB Cadastro de Usuários. Inclui endpoints para criar, listar, atualizar e excluir usuários, com validações básicas.
 - [User-registration-front-end](https://github.com/Gcodeco/dev-club-user-registration-front-end): Frontend para a aplicação DEV-CLUB, que permite interagir com a API de Cadastro de Usuários e exibir informações em uma interface amigável.
 
-## 📫 Entre em contato:
-- [LinkedIn](https://www.linkedin.com/in/gustavo-code%C3%A7o-4b7806216/)
-- [Email](mailto:seuemail@exemplo.com)
+## 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Codeço-blue)](https://www.linkedin.com/in/gustavo-codeço-4b7806216/)
