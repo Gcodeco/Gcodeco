@@ -15,6 +15,7 @@
  ![HTML5](https://camo.githubusercontent.com/10c7a8fa2cf317cc7c4af6f13efac086a9f0ea010f0dfc746c94e5cde310b339/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
  ![POSTAMN](https://camo.githubusercontent.com/7caa5cda1fb96a958ddd16628917ce82834ba814f80f74c7801a89332f80cba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465)
  ![MARKDOWN](https://camo.githubusercontent.com/33214e69a426f3c16c27d3ae0f482c2d317d2a49b89c9e544246d8dcfe816d19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e)
+ ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
  ##Estatísticas do GitHub
 
@@ -37,9 +38,4 @@
 
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Codeço-blue)](https://www.linkedin.com/in/gustavo-codeço-4b7806216/)
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
